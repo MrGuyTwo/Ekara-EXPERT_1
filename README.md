@@ -16,9 +16,11 @@ For more information on creating an "Expert" type user journey, you can consult 
 
 ## Screens
 Example of restitution: 
+
 ![screen](screenshot/Steps.png)
 
 Information retrieved:
+
 ![screen](screenshot/Host.png)
 
 ![screen](screenshot/CPU.png)
